@@ -10,13 +10,13 @@ nav {
   border-radius: 4px;
   text-decoration: none;
   color: blanchedalmond;
-  background-color: black;
+  background-color: blue;
   font-weight: 500;
   font-size: 18px;
 }
 
 .active {
   composes: link;
-  background-color: coral;
+  background-color: rgb(115, 221, 131);
   color: black;
 }
